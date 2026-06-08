@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 class ConditionalStatements   //if, else
 {
    public static void main(String ar[])
@@ -15,7 +18,11 @@ class ConditionalStatements   //if, else
       {System.out.println(y);
         System.out.println("Try again");
       }
+<<<<<<< HEAD
     //   int x=8;  
+=======
+   //   int x=8;
+>>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
    //   int y=7;
    //   int z=9;
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class MultiDimensionalArray
 {
  public static void main(String args[])
@@ -23,3 +24,30 @@ class MultiDimensionalArray
  }
 
 }
+=======
+class MultiDimensionalArray
+{
+ public static void main(String args[])
+ {
+     int nums[][] = new int[3][4];
+    
+     for (int i=0;i<3;i++)
+     {
+         for (int j = 0; j < 4; j++) 
+         {
+             nums[i][j] = (int) (Math.random() * 10);
+         }
+     }
+  
+         for (int n[] : nums)
+         {
+             for (int m : n)
+             {
+                 System.out.print(m + " ");
+             }
+             System.out.println();
+             }
+ }
+
+}
+>>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d

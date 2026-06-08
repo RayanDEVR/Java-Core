@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 class SwitchStatement
 {
    public static void main(String ar[])
@@ -48,4 +51,8 @@ class SwitchStatement
       //  }
 
    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
