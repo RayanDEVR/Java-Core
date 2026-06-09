@@ -4,7 +4,7 @@ class Operators  //+,-,*,/,%
 {
    public static void main(String ar[])
    {
-      int a=7;
+      int a=7; 
       int b=5;
       int result=a/b;              // 7/5=1.4 ; result=1
 

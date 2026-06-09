@@ -6,7 +6,7 @@ class LogicalOperators         //&,|,! ; for details, check note
 {
    public static void main(String ar[])
    {
-     int a=7;
+     int a=7; 
      int b=5;
      int c=5;
      int d=9;
