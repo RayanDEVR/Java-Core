@@ -11,7 +11,7 @@ class Operators  //+,-,*,/,%
       int result=a/b;              // 7/5=1.4 ; result=1
 
       System.out.println(result);
-
+ 
 
       int c=a%b;                  //7/5=1+2(reminder) ; result=2
 
