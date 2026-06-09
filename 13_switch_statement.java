@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 class SwitchStatement
 {
    public static void main(String ar[])
    {
-      
+          int n=6;
+
        switch(n){
        case 1:
        System.out.println("Saturday");
@@ -33,7 +30,6 @@ class SwitchStatement
          System.out.println("Enter a valid number");
        }
 
-      // int n=66;
       //        if(n==1)
       //  System.out.println("Saturday");
       //  else if(n==2)
@@ -53,7 +49,4 @@ class SwitchStatement
 
 
    }
-<<<<<<< HEAD
 }
-=======
->>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
