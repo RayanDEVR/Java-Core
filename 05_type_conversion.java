@@ -8,7 +8,7 @@ class TypeConversion
    {
       //float to int
         float a = 2.5f;
-        int b=(int)a;
+        int b=(int)a; 
         System.out.println(b);
         
     }
