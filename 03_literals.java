@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 class Literals
 {
    public static void main(String ar[])
@@ -10,7 +6,7 @@ class Literals
      System.out.println(num1);
      
 
-     int num2= 10_000_000_000;       //recall the range
+     int num2= 10_00_000_000;       //recall the range
      System.out.println(num2);
      
    }

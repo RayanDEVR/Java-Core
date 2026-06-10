@@ -1,0 +1,80 @@
+[33mcommit d25133c46d19beeddb1c90a66014d0fc396ed5e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: RayanDEVR <samiulrayan18@gmail.com>
+Date:   Wed Jun 10 01:18:05 2026 +0600
+
+    Array of Object
+
+[33mcommit 5836c6c013c2bd52581b372208c4d14bda729863[m
+Merge: bc50095 79af2cb
+Author: RayanDEVR <samiulrayan18@gmail.com>
+Date:   Mon Jun 8 17:49:10 2026 +0600
+
+    22_jagged_array.java, 23_3d_array.java
+
+[33mcommit bc500952f021e5b3447541a2d398102b620c9942[m
+Author: RayanDEVR <samiulrayan18@gmail.com>
+Date:   Mon Jun 8 17:41:36 2026 +0600
+
+    22_jagged_array.java, 23_3d_array.java
+
+[33mcommit 79af2cbce711fd5671ebfbc64cec77e50d96b67d[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Mon Jun 8 00:04:39 2026 +0600
+
+    Refactor nested loops to enhanced for loop
+
+[33mcommit f340ad551c1c42cfe8db7ccff58d2396fd8c2749[m
+Author: RayanDEVR <samiulrayan18@gmail.com>
+Date:   Sun Jun 7 13:33:40 2026 +0600
+
+    My first commit
+
+[33mcommit 016099d7a71b2ba05c5bbf4097a305efa74f2590[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Fri Jun 5 18:55:26 2026 +0600
+
+    Refactor MultiDimensionalArray for clarity
+    
+    Removed redundant code and cleaned up formatting.
+
+[33mcommit d03516eec90aec11b3b274677c270c21dd1895e0[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Thu Jun 4 23:50:00 2026 +0600
+
+    Rename 21_multi_dimentional_array.java to 21_multi_dimensional_array.java
+
+[33mcommit 194f8117513e3ffc46503faa0df815d80d5cdb46[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Thu Jun 4 23:45:56 2026 +0600
+
+    Add files via upload
+
+[33mcommit f23f1cae86502a0a11367fc2205c5f9fb68a7a8b[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Wed Jun 3 22:47:14 2026 +0600
+
+    Add files via upload
+
+[33mcommit a3f1c1f864b3cd6a7b6b6e5affcaac08642e3521[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Wed Jun 3 12:50:56 2026 +0600
+
+    Add files via upload
+
+[33mcommit a9c98d11451ca8451dc6e91a2f009f8da8fbd9ea[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Wed Jun 3 00:57:29 2026 +0600
+
+    Add files via upload
+
+[33mcommit c9daca894a6414d9e122ca6ca0f25c538aeb3259[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Sat May 30 03:15:13 2026 +0600
+
+    Add files via upload
+
+[33mcommit c906789abbb3b22b0049c692322513debe6319dd[m
+Author: Samiul Rayan <samiulrayan18@gmail.com>
+Date:   Sat May 30 03:13:14 2026 +0600
+
+    Create README.md

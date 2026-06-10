@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 class TernaryOperators      //?,:
 {
    public static void main(String args[]) 

@@ -23,8 +23,4 @@ public static void main(String a[])
     z++;
   }
 }
-<<<<<<< HEAD
-=======
- 
->>>>>>> 79af2cbce711fd5671ebfbc64cec77e50d96b67d
 }
