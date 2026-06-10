@@ -30,11 +30,15 @@ public static void main(String args[])
     students[1] = s2;
     students[2] = s3;
 
-    for(int i=0; i<students.length; i++)
-    {
-        System.out.println(students[i].name + "(" + students[i].roll + ")" + ":" + " " + students[i].marks);
-    }
+    // for(int i=0; i<students.length; i++)
+    // {
+    //     System.out.println(students[i].name + "(" + students[i].roll + ")" + ":" + " " + students[i].marks);
+    // }
 
+    for(Student n : students)
+        {
+            System.out.println(n.name + "(" + n.roll + "): " + n.marks);
+        }
 }
     
 }
