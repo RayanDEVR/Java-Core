@@ -30,4 +30,4 @@ class Encapsulation  {
 
         System.out.println(obj.getName() + ": " + obj.getAge());
     }
-}
+} 
