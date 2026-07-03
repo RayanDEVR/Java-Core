@@ -7,9 +7,9 @@ class A
         
     }
 
-    public A(char a) 
+    public A(int a) 
     {
-        super();
+        this();
         System.out.println("in A int");
     }
 }
@@ -18,27 +18,31 @@ class B extends A
 {
     public B()
     {
-        super('a');
+        super(2);
         System.out.println("in B");
         
     }
 
-    public B(char b) 
+     public B(int b) 
     {
         this();
         System.out.println("in B int");
+    }    
+
+    public B(int a, int b, int c)
+    {
+        this(1);
+        System.out.println("in B float");
     }
+
+   
 }
 
-class SuperAndThisMethod
+class SuperAndThisMethod 
 {
 public static void main(String[] args) {
     {
-        B obj = new B();
-
-        System.out.println();
-
-        B obj1 = new B('f');
+        B obj = new B(1,2,3);
 
     }
 }
