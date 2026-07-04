@@ -1,6 +1,7 @@
 import tools.*;
 
-class Inheritance extends AdvCalc {
+class Inheritance extends AdvCalc 
+{
     public static void main (String [] args)
     {
         AdvCalc obj = new AdvCalc();
