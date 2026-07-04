@@ -1,3 +1,5 @@
+import tools.*;
+
 class Inheritance extends AdvCalc {
     public static void main (String [] args)
     {
