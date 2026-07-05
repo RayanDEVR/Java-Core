@@ -34,7 +34,7 @@ class FinalKeyword
        System.out.println(a);
         
 
-       Calc obj = new Calc();
+       AdvCalc obj = new AdvCalc();
        obj.show();
        int r1 = obj.add(3, 4);
        
