@@ -13,5 +13,7 @@ class Buffered_Reader
 
         int num = Integer.parseInt(bf.readLine());
         System.out.println(num);
+
+        bf.close();
     }
 }
