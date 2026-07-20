@@ -144,19 +144,19 @@ java-core/
 
 | # | Module | Topics | Status |
 |---|--------|---------|--------|
-| 01 | **Intro to Java** | What is Java, How Java Works, JDK/JRE/JVM, Setup, First Program | ⬜ Not Started |
-| 02 | **Variables & Data Types** | Variables, Data Types, Literals, Type Conversion, Assignment | ⬜ Not Started |
-| 03 | **Operators** | Arithmetic, Relational, Logical Operators | ⬜ Not Started |
-| 04 | **Control Flow** | If-Else, If-Else-If, Ternary, Switch Statement | ⬜ Not Started |
-| 05 | **Loops** | While, Do-While, For Loop, Which Loop To Use | ⬜ Not Started |
-| 06 | **Arrays** | 1D Arrays, 2D Arrays, Jagged & 3D Arrays, Array of Objects, Enhanced For | ⬜ Not Started |
-| 07 | **Class & Object** | Class/Object Theory & Practical, Methods, Method Overloading, Stack & Heap | ⬜ Not Started |
-| 08 | **OOP Concepts** | Encapsulation, Getters/Setters, `this` keyword, Constructors, Static, Anonymous Object | ⬜ Not Started |
-| 09 | **Inheritance** | Single, Multilevel, Multiple Inheritance, Method Overriding, Packages, Access Modifiers | ⬜ Not Started |
-| 10 | **Polymorphism** | Polymorphism, Dynamic Method Dispatch, `final` keyword | ⬜ Not Started |
-| 11 | **Abstract & Interface** | Abstract Class, Interface, Object Class, `equals`, `toString`, `hashCode` | ⬜ Not Started |
-| 12 | **String** | String Basics, Mutable vs Immutable, StringBuffer, StringBuilder | ⬜ Not Started |
-| 13 | **Exception Handling** | Try-Catch, Multiple Exceptions, Custom Exceptions, Finally, Throw/Throws | ⬜ Not Started |
+| 01 | **Intro to Java** | What is Java, How Java Works, JDK/JRE/JVM, Setup, First Program | ✅ Completed |
+| 02 | **Variables & Data Types** | Variables, Data Types, Literals, Type Conversion, Assignment | ✅ Completed |
+| 03 | **Operators** | Arithmetic, Relational, Logical Operators | ✅ Completed |
+| 04 | **Control Flow** | If-Else, If-Else-If, Ternary, Switch Statement | ✅ Completed |
+| 05 | **Loops** | While, Do-While, For Loop, Which Loop To Use | ✅ Completed |
+| 06 | **Arrays** | 1D Arrays, 2D Arrays, Jagged & 3D Arrays, Array of Objects, Enhanced For | ✅ Completed |
+| 07 | **Class & Object** | Class/Object Theory & Practical, Methods, Method Overloading, Stack & Heap | ✅ Completed |
+| 08 | **OOP Concepts** | Encapsulation, Getters/Setters, `this` keyword, Constructors, Static, Anonymous Object | ✅ Completed |
+| 09 | **Inheritance** | Single, Multilevel, Multiple Inheritance, Method Overriding, Packages, Access Modifiers | ✅ Completed |
+| 10 | **Polymorphism** | Polymorphism, Dynamic Method Dispatch, `final` keyword | ✅ Completed |
+| 11 | **Abstract & Interface** | Abstract Class, Interface, Object Class, `equals`, `toString`, `hashCode` | ✅ Completed |
+| 12 | **String** | String Basics, Mutable vs Immutable, StringBuffer, StringBuilder | ✅ Completed |
+| 13 | **Exception Handling** | Try-Catch, Multiple Exceptions, Custom Exceptions, Finally, Throw/Throws | ✅ Completed |
 | 14 | **Object Cloning & Serialization** | Object Cloning, Serialization, Deserialization | ⬜ Not Started |
 | 15 | **File Handling** | Reading Files, Writing Files, File Class | ⬜ Not Started |
 | 16 | **Multithreading** | Thread Basics, Runnable Interface, Synchronization, Executor Service | ⬜ Not Started |
