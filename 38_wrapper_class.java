@@ -5,17 +5,19 @@ class WrapperClass
     public static void main (String [] args)
     {
         int num = 4;
-        Integer num1 = num;         //autoboxing
+        Integer num1 = new Integer(num);     //boxing
+        Integer num2 = num;                 //autoboxing
 
         
-        int num2 = num1;            //auto-unboxing
-
-        System.out.println(num2);
+        int num3 = num2.intValue();        // unboxing
+        int num4 = num2;                    //auto-unboxing
+    
+        System.out.println(num4);
 
 
         String str = "12";
-        int num3 = Integer.parseInt(str);
+        int num5 = Integer.parseInt(str);
 
-        System.out.println(num3 * 2);
+        System.out.println(num5 * 2);
     }
 }
